@@ -19,7 +19,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 
 # Importing data and assigning variables
-dataset = pd.read_csv('C:/Users/Sukant Sidnhwani/Desktop/Python/Projects/Bollywood Music Skipper/Preprocessed_Dataset.csv')
+dataset = pd.read_csv('C://Desktop/Python/Projects/Skip music/Preprocessed_Dataset.csv')
 del dataset['Filename']
 
 X = dataset.iloc[:, : -1].values
