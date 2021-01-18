@@ -1,0 +1,9 @@
+,Classification Models,Accuracies
+0,Logistic Regression Classification,88.46
+1,K Nearest Neighbors Classification,100.0
+2,Support Vector Machine [Linear] Classification,84.62
+3,Support Vector Machine [Gaussian] Classification,100.0
+4,Naive Bayes Classification,84.62
+5,Decision Tree Classification,80.77
+6,Random Forrest Classification,100.0
+7,Gradient Boosting Classification,73.08
