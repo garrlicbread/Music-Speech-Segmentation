@@ -21,6 +21,8 @@ Early training on basic ML models yielded an accuracy of 95%+, some even 100%, b
 Out of the eight models tested, KNN, SVMs and Random Forest perform the best in terms of accuracy. However, when 5 demo files were tested, only Random Forest was able to correctly identify all of them. 
 
 ## References:
+GTZAN Dataset: https://www.notion.so/Speech-Music-Segmentation-in-Bollywood-f4f9f2a36e674cdb9131b81b09135d2b#bfd92098bad442b3ba627ddec7515b36
+
 Librosa: https://librosa.org/doc/latest/index.html
 
 Feature Extraction with Librosa: https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
