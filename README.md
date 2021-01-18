@@ -16,10 +16,10 @@
 4) Can also try training the model on a deep-neural network to improve performance ❌
 5) Can also try extract visual features from the dataset and train a CNN on it ❌
 
-## Findings:
+# Findings:
 Early training on basic ML models yielded an accuracy of 95%+, some even 100%, but that shouldn't be too surprising since there are only 26 validation samples.
 Out of the eight models tested, KNN, SVMs and Random Forest perform the best in terms of accuracy. However, when 5 demo files were tested, only Random Forest was able to correctly identify all of them. 
 
-# References:
+## References:
 Librosa: https://librosa.org/doc/latest/index.html
 Feature Extraction with Librosa: https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
