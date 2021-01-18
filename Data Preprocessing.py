@@ -5,8 +5,8 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 # Importing the dataset
-path = "C:/Users/Sukant Sidnhwani/Desktop/Python/Projects/Bollywood Music Skipper"
-df = pd.read_csv("C:/Users/Sukant Sidnhwani/Desktop/Python/Projects/Bollywood Music Skipper/music_speech_features.csv")
+path = "C://Desktop/Python/Projects/Skip music"
+df = pd.read_csv("C://Desktop/Python/Projects/Skip music/music_speech_features.csv")
 X = df.iloc[:, : -1].values
 y = df.iloc[:, -1]
 columns = df.iloc[:, : -1].columns
