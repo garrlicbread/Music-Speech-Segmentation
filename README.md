@@ -12,9 +12,9 @@
 # To-Do List:
 1) Find a way to extract audio in real-time while a movie is playing ❌
 2) Deploy the model on an entire movie and return the frames where music is detected ❌
-3) Integrate it with any python library that has skip/fast-forward methods ❌
+3) Integrate it with any python library that has skip/fast-forward methods - Try Pymovie ❌
 4) Can also try training the model on a deep-neural network to improve performance ❌
-5) Can also try extract visual features from the dataset and train a CNN on it ❌
+5) Can also try to extract visual features from the dataset and train a CNN on it ❌
 
 # Findings:
 Early training on basic ML models yielded an accuracy of 95%+, some even 100%, but that shouldn't be too surprising since there are only 26 validation samples.
