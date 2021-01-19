@@ -8,7 +8,7 @@
 ### a) Logistic Regression Classifier
 ### b) K Nearest Neigbors Classifier
 ### c) Support Vector Machine (Linear) Classifier
-### d) Support Vector Machine (Gaussion) Classifier
+### d) Support Vector Machine (Gaussian) Classifier
 ### e) Naive Bayes Classifer
 ### f) Decision Tree Classifier
 ### g) Random Forest Classifier
