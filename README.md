@@ -1,6 +1,6 @@
 # Music-Speech Segmentation in Bollywood 🎶
 
-## **Problem**: Nobody wants to listen to 'Dilbara' everytime he/she rewatch Dhoom (2004), So I've set out to create a tool that hopes to correctly identify when a song starts playing in a movie and skip it. This repository is for me to track the progress of this project.
+## **Problem**: Nobody wants to listen to 'Dilbara' everytime he/she rewatches Dhoom (2004), So I've set out to create a tool that hopes to correctly identify when a song starts playing in a movie and skip it. This repository is for me to track the progress of this project.
 
 # Checklist:
 1) Collect GTZAN Music-Speech dataset ✔
